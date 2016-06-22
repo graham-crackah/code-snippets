@@ -15,5 +15,20 @@
   "bugs": {
     "url": "https://github.com/graham-crackah/code-snippets/issues"
   },
-  "homepage": "https://github.com/graham-crackah/code-snippets#readme"
+  "homepage": "https://github.com/graham-crackah/code-snippets#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "gulp": "^3.9.1",
+    "hapi": "^13.4.1",
+    "http": "0.0.0",
+    "inquirer": "^1.0.3",
+    "jsonfile": "^2.3.1",
+    "missy": "0.0.2",
+    "missy-postgres": "0.0.1",
+    "pg-builder": "^1.0.2",
+    "prettyjson": "^1.1.3",
+    "qs": "^6.2.0",
+    "url": "^0.11.0"
+  }
 }
