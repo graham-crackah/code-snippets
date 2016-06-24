@@ -4,11 +4,12 @@ function App(){
 }
 
 App.prototype.config = function(){
-	if  (!var conf = new Config();
+	
+	var inquire = require('inquirer');
+	var prompts = inquirer.prompt	if  (!fs.var conf = new Config();
 }
 
 const http = require('http');
-const path = require('path');
 const spawn = require('child_process').spawn;
 
 const Config = require('./config/app');
